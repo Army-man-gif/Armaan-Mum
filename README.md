@@ -1,2 +1,2 @@
-# Armaan-Mum
+# ArmaanMum
 Teaching mum python
